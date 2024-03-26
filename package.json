@@ -1,0 +1,20 @@
+{
+  "name": "suntnihil",
+  "version": "1.0.0",
+  "description": "this is a anjularjs-directive to download file from client. This little project is to create a easy way to export data to ngExcel and download only with anjular-js;",
+  "main": "ngExcel.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdaNicolas/suntnihil.git"
+  },
+  "keywords": [
+    "sit",
+    "ngExcel"
+  ],
+  "author": "OrrinFrami",
+  "license": "ISC",
+  "homepage": "https://github.com/EdaNicolas/suntnihil.git",
+  "bugs": {
+    "url": "https://github.com/EdaNicolas/suntnihil.git/issues"
+  }
+}
